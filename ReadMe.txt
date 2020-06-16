@@ -1,1 +1,3 @@
-You no longer have to add js & stylesheet urls in head.Just double click on html page to run it on your default browser.Don't forget to share your feedback on https://play.google.com/store/apps/details?id=ak.andro.easyhtml
+You no longer have to add js & stylesheet urls in head.
+Just double click on html page to run it on your default browser.
+Don't forget to share your feedback 
